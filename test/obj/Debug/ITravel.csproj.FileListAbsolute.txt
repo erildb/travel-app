@@ -1,0 +1,148 @@
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\ApplicationInsights.config
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\test.dll.config
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\test.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\test.pdb
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Antlr3.Runtime.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AI.Web.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Newtonsoft.Json.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\System.Web.Optimization.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\WebGrease.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\System.Web.Optimization.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Antlr3.Runtime.pdb
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Newtonsoft.Json.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\bin\Microsoft.AI.Web.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\obj\Debug\ITravel.csprojResolveAssemblyReference.cache
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\obj\Debug\ITravel.csproj.CoreCompileInputs.cache
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\obj\Debug\test.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\test\test\obj\Debug\test.pdb
+C:\Users\Erild\Desktop\test\test\bin\ApplicationInsights.config
+C:\Users\Erild\Desktop\test\test\bin\test.dll.config
+C:\Users\Erild\Desktop\test\test\bin\test.dll
+C:\Users\Erild\Desktop\test\test\bin\test.pdb
+C:\Users\Erild\Desktop\test\test\bin\Antlr3.Runtime.dll
+C:\Users\Erild\Desktop\test\test\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Erild\Desktop\test\test\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AI.Web.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erild\Desktop\test\test\bin\Newtonsoft.Json.dll
+C:\Users\Erild\Desktop\test\test\bin\System.Web.Optimization.dll
+C:\Users\Erild\Desktop\test\test\bin\WebGrease.dll
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erild\Desktop\test\test\bin\System.Web.Optimization.xml
+C:\Users\Erild\Desktop\test\test\bin\Antlr3.Runtime.pdb
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Erild\Desktop\test\test\bin\Newtonsoft.Json.xml
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Erild\Desktop\test\test\bin\Microsoft.AI.Web.xml
+C:\Users\Erild\Desktop\test\test\obj\Debug\ITravel.csprojResolveAssemblyReference.cache
+C:\Users\Erild\Desktop\test\test\obj\Debug\ITravel.csproj.CoreCompileInputs.cache
+C:\Users\Erild\Desktop\test\test\obj\Debug\test.dll
+C:\Users\Erild\Desktop\test\test\obj\Debug\test.pdb
+C:\Users\Erild\Desktop\ITravel\test\bin\ApplicationInsights.config
+C:\Users\Erild\Desktop\ITravel\test\bin\test.dll.config
+C:\Users\Erild\Desktop\ITravel\test\bin\test.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\test.pdb
+C:\Users\Erild\Desktop\ITravel\test\bin\Antlr3.Runtime.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AI.Web.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Newtonsoft.Json.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\System.Web.Optimization.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\WebGrease.dll
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erild\Desktop\ITravel\test\bin\System.Web.Optimization.xml
+C:\Users\Erild\Desktop\ITravel\test\bin\Antlr3.Runtime.pdb
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Erild\Desktop\ITravel\test\bin\Newtonsoft.Json.xml
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Erild\Desktop\ITravel\test\bin\Microsoft.AI.Web.xml
+C:\Users\Erild\Desktop\ITravel\test\obj\Debug\ITravel.csprojResolveAssemblyReference.cache
+C:\Users\Erild\Desktop\ITravel\test\obj\Debug\ITravel.csproj.CoreCompileInputs.cache
+C:\Users\Erild\Desktop\ITravel\test\obj\Debug\test.dll
+C:\Users\Erild\Desktop\ITravel\test\obj\Debug\test.pdb
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\ApplicationInsights.config
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\test.dll.config
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\test.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\test.pdb
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Antlr3.Runtime.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AI.Web.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Newtonsoft.Json.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\System.Web.Optimization.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\WebGrease.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\System.Web.Optimization.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Antlr3.Runtime.pdb
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Newtonsoft.Json.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\bin\Microsoft.AI.Web.xml
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\obj\Debug\ITravel.csprojResolveAssemblyReference.cache
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\obj\Debug\ITravel.csproj.CoreCompileInputs.cache
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\obj\Debug\test.dll
+C:\Users\Erild\Desktop\Leksione Viti 3\Ing Softi\ITravel\test\obj\Debug\test.pdb
